@@ -1,3 +1,3 @@
-module.exports = function first(data) {
-  return Object.prototype.toString.call(data).replace(/\[object\s|\]/g, '').toLowerCase();
+module.exports = function dataType(anyData) {
+  return Object.prototype.toString.call(anyData).replace(/\[object\s|\]/g, '').toLowerCase();
 }

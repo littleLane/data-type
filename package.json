@@ -1,11 +1,11 @@
 {
-  "name": "@littlelane/first",
-  "version": "1.0.1",
+  "name": "@littlelane/data-type",
+  "version": "1.0.2",
   "description": "Gets type of a parameter",
   "main": "index.js",
   "keywords": [
     "type",
-    "first",
+    "data-type",
     "npm",
     "module",
     "littlelane",
@@ -13,5 +13,5 @@
   ],
   "author": "littlelane",
   "license": "ISC",
-  "repository": "littleLane/first"
+  "repository": "littleLane/data-type"
 }
