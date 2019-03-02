@@ -1,6 +1,6 @@
 {
   "name": "@littlelane/data-type",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Gets type of a parameter",
   "main": "index.js",
   "keywords": [
