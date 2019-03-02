@@ -1,12 +1,17 @@
 {
   "name": "@littlelane/first",
   "version": "1.0.1",
-  "description": "",
+  "description": "Gets type of a parameter",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
+  "keywords": [
+    "type",
+    "first",
+    "npm",
+    "module",
+    "littlelane",
+    "package"
+  ],
   "author": "littlelane",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "littleLane/first"
 }
