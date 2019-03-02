@@ -8,10 +8,13 @@ Gets type of a parameter.
 
 ## Install
 
-> npm install @littlelane/data-type
+```bash
+npm install @littlelane/data-type
+```
 
 ## Usage
 
+```JavaScript
 > const dataType = require('@littlelane/data-type');
 
 > dataType('good');
@@ -22,3 +25,4 @@ Gets type of a parameter.
 
 > dataType([]);
 > // => array
+```
